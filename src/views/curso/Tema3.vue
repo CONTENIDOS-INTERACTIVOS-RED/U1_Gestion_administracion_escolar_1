@@ -394,7 +394,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") La Constitución como guía viva para la educación infantil
             p.mb-4(data-aos="fade-right") Se invita a leer el documento La Constitución como guía viva para la educación infantil, donde se aborda el papel transformador de la Constitución Política de Colombia de 1991, en el ámbito de la educación desde la primera infancia. 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

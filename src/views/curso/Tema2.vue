@@ -286,7 +286,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Impacto de la Declaración en la legislación educativa mundial
             p.mb-4(data-aos="fade-right") Se invita a leer el documento Impacto de la Declaración en la legislación educativa mundial, donde se aborda la influencia decisiva de la Declaración Universal de los Derechos Humanos en el desarrollo de marcos normativos educativos, a nivel global.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
