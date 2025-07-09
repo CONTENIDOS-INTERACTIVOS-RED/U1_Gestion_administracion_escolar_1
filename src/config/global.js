@@ -313,5 +313,10 @@ export default {
       significado:
         'Fondo de las Naciones Unidas que vela por los derechos de la infancia, incluida la educación.',
     },
+    {
+      termino: 'Declaración de Derechos',
+      significado:
+        'Documento internacional que reconoce los derechos humanos básicos, incluidos los relacionados con la educación.',
+    },
   ],
 }

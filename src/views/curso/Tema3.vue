@@ -153,9 +153,9 @@
     .row.mb-5.align-items-center
       .col-lg-8.mb-3.mb-lg-0 
         .bg-color-6.p-4.mb-4(data-aos="fade-up") 
-          h5(data-aos="fade-down") ¿Cómo la educación llegó a reconocerse como un derecho humano universal y no solamente como una obligación escolar?
+          h5(data-aos="fade-down") ¿Cuál es el papel de las organizaciones internacionales en la promoción de los derechos de la infancia y cómo influyen en los sistemas educativos de todo el mundo?
 
-          p(data-aos="fade-down").mb-0 Esta pregunta invita a comprender la educación como un derecho inherente a toda persona, desde la infancia y a lo largo de la vida. En este sentido, la Declaración Universal de los Derechos Humanos (DUDH) se presenta como una guía ética y legal, fundamental para quienes se forman en el campo de la educación infantil.
+          p(data-aos="fade-down").mb-0 UNICEF, como uno de los organismos más relevantes en esta labor, ha tenido un impacto decisivo en la garantía del derecho a la educación para millones de niños en el mundo. Su trabajo abarca desde la formulación de políticas públicas hasta la acción directa en contextos de vulnerabilidad, siempre bajo el enfoque de la equidad, la calidad y la protección infantil.
         h3(data-aos="fade-down") UNICEF y su misión educativa
         p(data-aos="fade-down") El Fondo de las Naciones Unidas para la Infancia (UNICEF), fue creado con la misión de proteger los derechos de los niños y mejorar sus condiciones de vida. Su enfoque es integral: abarca la salud, el acceso a servicios básicos y, en especial, la educación como derecho fundamental.
       .col-lg-4
@@ -459,28 +459,28 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál de los siguientes documentos establece los derechos humanos fundamentales relacionados con la educación a nivel internacional?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Constitución Política de Colombia.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto: 'Declaración Universal de los Derechos Humanos.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Decreto 1075 del 2015.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Ley 1620 del 2013.',
                 esCorrecta: false,
               },
             ],
@@ -490,28 +490,29 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Cuál es el principal objetivo de la UNESCO en el ámbito educativo?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Promover el desarrollo económico de los países.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
+                texto: 'Garantizar el derecho a la educación para todos.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Regular la legislación educativa de cada país.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto:
+                  'Fomentar la competencia entre instituciones educativas.',
                 esCorrecta: false,
               },
             ],
@@ -521,28 +522,28 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              '¿Qué artículo de la Constitución Política de Colombia aborda el derecho a la educación?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Artículo 29.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Artículo 67.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Artículo 12.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Artículo 30.',
                 esCorrecta: false,
               },
             ],
@@ -551,28 +552,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Qué establece el Decreto 1075 del 2015 en relación con la educación en Colombia?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Organiza la infraestructura educativa del país.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto: 'Unifica la legislación educativa y la gestión escolar.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Regula los contenidos de los programas educativos.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Centraliza los recursos financieros para la educación.',
                 esCorrecta: false,
               },
             ],
@@ -582,28 +584,28 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál de las siguientes entidades tiene como misión velar por los derechos de la infancia y su acceso a la educación a nivel global?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'Ministerio de Educación Nacional de Colombia.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
+                texto: 'UNICEF.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Ministerio de Salud.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Organización Mundial de la Salud (OMS)',
                 esCorrecta: false,
               },
             ],
